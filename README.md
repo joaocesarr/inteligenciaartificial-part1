@@ -1,1 +1,2 @@
-# inteligenciaartificial-part1
+- Inteligência Artificial e Aprendizado de Máquina
+- PARTE 1
